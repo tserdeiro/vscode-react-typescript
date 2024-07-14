@@ -138,7 +138,7 @@
 			"",
 			"}",
 			"",
-			"export default function ${1:} (props: Props) {",
+			"function ${1:} (props: Props) {",
 			"  return (",
 			"    <div>",
 			"      ${0}",
